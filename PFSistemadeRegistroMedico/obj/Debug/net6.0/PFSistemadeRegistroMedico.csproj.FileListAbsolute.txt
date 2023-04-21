@@ -1,0 +1,17 @@
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\bin\Debug\net6.0\PFSistemadeRegistroMedico.exe
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\bin\Debug\net6.0\PFSistemadeRegistroMedico.deps.json
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\bin\Debug\net6.0\PFSistemadeRegistroMedico.runtimeconfig.json
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\bin\Debug\net6.0\PFSistemadeRegistroMedico.dll
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\bin\Debug\net6.0\PFSistemadeRegistroMedico.pdb
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\obj\Debug\net6.0\PFSistemadeRegistroMedico.csproj.AssemblyReference.cache
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\obj\Debug\net6.0\PFSistemadeRegistroMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\obj\Debug\net6.0\PFSistemadeRegistroMedico.AssemblyInfoInputs.cache
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\obj\Debug\net6.0\PFSistemadeRegistroMedico.AssemblyInfo.cs
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\obj\Debug\net6.0\PFSistemadeRegistroMedico.csproj.CoreCompileInputs.cache
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\obj\Debug\net6.0\PFSistemadeRegistroMedico.dll
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\obj\Debug\net6.0\refint\PFSistemadeRegistroMedico.dll
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\obj\Debug\net6.0\PFSistemadeRegistroMedico.pdb
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\obj\Debug\net6.0\PFSistemadeRegistroMedico.genruntimeconfig.cache
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\obj\Debug\net6.0\ref\PFSistemadeRegistroMedico.dll
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\any_c\source\repos\practica basica\PFSistemadeRegistroMedico\PFSistemadeRegistroMedico\obj\Debug\net6.0\PFSistemadeRegistroMedico.csproj.CopyComplete
